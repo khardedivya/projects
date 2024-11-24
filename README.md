@@ -1,2 +1,2 @@
 # projects
-Pms,Erms,
+Placement management system
